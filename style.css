@@ -1,0 +1,42 @@
+
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  header, section, footer {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+  }
